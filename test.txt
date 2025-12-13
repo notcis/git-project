@@ -1,6 +1,5 @@
-tdfdsfdsfdsfdsfdsf
-
-asdfdsfdsfdsf
-dsfdsfdsfdsf
-
-sdfdsfdsf
+test git
+this is a test file for git project
+adding more content to test git functionality
+end of the test file
+.txt
