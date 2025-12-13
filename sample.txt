@@ -4,4 +4,4 @@ test branch
     git status
     git commit -am "commit local changes"
     git push origin test
-    ```
+    ```this is compar lecture
