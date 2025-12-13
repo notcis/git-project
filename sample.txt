@@ -5,10 +5,3 @@ test branch
     git commit -am "commit local changes"
     git push origin test
     ```
-test revert 2
-```bash
-    git checkout test
-    git pull origin test
-    git revert <commit_id>
-    git push origin test
-    ```
