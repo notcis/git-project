@@ -3,4 +3,9 @@ test branch2
     git checkout test
     git pull origin test
     ```
-    
+test git revert
+```bash
+    git checkout test
+    git pull origin test
+    ```this is compar lecture
+file 2

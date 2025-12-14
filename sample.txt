@@ -18,3 +18,4 @@ git commit -m "commit local 2"
 git push origin <banch-name>
 git pull origin <banch-name>
 ```
+    ```this is compar lecture
