@@ -5,3 +5,16 @@ test branch
     git commit -am "commit local changes"
     git push origin test
     ```
+
+# git branch 28
+```bash
+git branch // show local branches
+git branch -a // show all branches including remote
+git branch <banch-name> // create new branch
+git checkout <banch-name> // old way to switch branch
+git switch <banch-name> // new way to switch branch
+git add . // add all changed files to staging area
+git commit -m "commit local 2"
+git push origin <banch-name>
+git pull origin <banch-name>
+```
