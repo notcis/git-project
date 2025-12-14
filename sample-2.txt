@@ -9,3 +9,5 @@ test git revert
     git pull origin test
     ```this is compar lecture
 file 2
+
+test git stash file 2

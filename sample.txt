@@ -19,3 +19,5 @@ git push origin <banch-name>
 git pull origin <banch-name>
 ```
     ```this is compar lecture
+
+test git stash file 1
